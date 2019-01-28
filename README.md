@@ -21,6 +21,10 @@ This is the first project I completed during the front end program at the Turing
 
 ![dog party website comp](images/dog-party-js-edition.jpg)
 
+## Finished Project
+
+![ryans dog party website](images/finished-dog-party-website.jpg)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
