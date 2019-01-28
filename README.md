@@ -15,7 +15,7 @@ This is the first project I completed during the front end program at the Turing
 
 ## Authors
 
-* **Ryan Barnett** - [Github](http://github.com/RyanDBarnett)
+* **Ryan Barnett** - [Ryan's Github](http://github.com/RyanDBarnett)
 
 ## What The Site Should Look Like
 
@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you Kayla for your advice with CSS & JS - [Github](https://github.com/KaylaLawson)
+* Thank you Kayla for your advice with CSS & JS - [Kayla's Github](https://github.com/KaylaLawson)
