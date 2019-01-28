@@ -17,6 +17,10 @@ This is the first project I completed during the front end program at the Turing
 
 * **Ryan Barnett** - [Github](http://github.com/RyanDBarnett)
 
+## What The Site Should Look Like
+
+![dog party website comp](images/dog-party-js-edition.jpg)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
