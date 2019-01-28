@@ -23,7 +23,7 @@ This is the first project I completed during the front end program at the Turing
 
 ## Finished Project
 
-![ryans dog party website](images/finished-dog-party.jpg)
+![ryans dog party website](images/finished-dog-party.jpeg)
 
 ## License
 
