@@ -1,6 +1,6 @@
 # Dog Party
 
-This is the first project I completed during the front end program at the Turing School of Software and Design. The point of the project was to build a 1-page static site to practice writing well structured, semantic HTML with clean, precise CSS, as well as adding some user interaction with Javascript and the DOM.
+This is the first project I completed during the front end program at the [Turing School of Software and Design](https://https://turing.io/). The point of the project was to build a 1-page static site to practice writing well structured, semantic HTML with clean, precise CSS, as well as adding some user interaction with Javascript and the DOM.
 
 ## Key Features
 
